@@ -15,7 +15,7 @@ USAGE
 
 3. java HttpRequest to run it
 
-4. hit http://192.168.1.20:10080/ and watch your return from Cisco Unity connection in the web browser.
+4. hit http://<localip>:10080/ and watch your return from Cisco Unity connection in the web browser.
 
 
 5. Hook this up to some ajax with jsonp and be amazed at the things that are no possible.
